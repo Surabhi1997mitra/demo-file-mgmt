@@ -1,4 +1,4 @@
-# CIMBA Real-Time File Editor
+# demo-file-mgmt
 
 A powerful web-based file editor that lets you upload text files and edit them with changes saved directly to your original files on your device in real-time.
 
@@ -25,7 +25,7 @@ A powerful web-based file editor that lets you upload text files and edit them w
 ## Project Structure
 
 ```
-cimba-interview/
+demo-file-mgmt/
 ├── BACKEND_SETUP.md           # Backend configuration guide
 ├── README.md                   # This file
 ├── package.json               # Root dependencies
@@ -63,7 +63,7 @@ cimba-interview/
 1. Clone the repository:
 
 ```bash
-cd c:\Users\surab\Desktop\cimba-interview
+cd c:\Users\surab\Desktop\demo-file-mgmt
 ```
 
 2. Install root dependencies:
@@ -237,10 +237,6 @@ Launches the test runner in interactive watch mode.
 - Dark mode theme
 - File backup system
 - Collaboration features
-
-## License
-
-This project is part of the CIMBA interview assessment.
 
 ### Analyzing the Bundle Size
 
